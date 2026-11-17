@@ -1,2 +1,2 @@
-# 2627_Actionneur_Et_Automatique_Appliqu-e
+# 2627_Actionneur_Et_Automatique_Appliquee
 A repository dedicated to a course at ENSEA
