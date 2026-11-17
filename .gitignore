@@ -11,6 +11,28 @@ CTestTestfile.cmake
 _deps
 CMakeUserPresets.json
 
+# Dossiers de compilation
+build/
+Debug/
+Release/
+*.ninja
+.ninja_deps
+.ninja_log
+
+# Fichiers compilés ARM / STM32
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+
+# Fichiers locaux STM32CubeIDE / Eclipse
+.metadata/
+.settings/
+*.launch
+
 # CLion
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
